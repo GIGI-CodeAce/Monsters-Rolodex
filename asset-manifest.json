@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Rolodex-Monsters/static/css/main.d64a520e.css",
-    "main.js": "/Rolodex-Monsters/static/js/main.9e82709e.js",
-    "index.html": "/Rolodex-Monsters/index.html",
-    "main.d64a520e.css.map": "/Rolodex-Monsters/static/css/main.d64a520e.css.map",
-    "main.9e82709e.js.map": "/Rolodex-Monsters/static/js/main.9e82709e.js.map"
+    "main.css": "/rolodex-monsters/static/css/main.d64a520e.css",
+    "main.js": "/rolodex-monsters/static/js/main.9e82709e.js",
+    "index.html": "/rolodex-monsters/index.html",
+    "main.d64a520e.css.map": "/rolodex-monsters/static/css/main.d64a520e.css.map",
+    "main.9e82709e.js.map": "/rolodex-monsters/static/js/main.9e82709e.js.map"
   },
   "entrypoints": [
     "static/css/main.d64a520e.css",
