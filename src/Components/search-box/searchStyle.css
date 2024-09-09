@@ -4,10 +4,17 @@
   -webkit-appearance: none;
   border: none;
   outline: none;
-  padding: 10px;
+  padding: 7px;
   width: 150px;
   line-height: 30px;
   margin-bottom: 30px;
   border-radius: 20px;
   text-align: center;
+  border: 3px solid rgba(0, 0, 0, 0);
+
+  transition: border 0.3s ease;
+}
+
+.search-box:hover{
+  border: 3px solid black;
 }

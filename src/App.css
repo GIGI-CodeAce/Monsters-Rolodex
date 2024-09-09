@@ -20,26 +20,18 @@ body {
   font-size: 60px;
   margin: 50px 50px;
   font-family: 'Bigelow Rules';
-}
 
-::-webkit-scrollbar {
-  width: 15px;
+  transition: text-shadow 0.3s ease;
 }
-
-::-webkit-scrollbar-thumb {
-  background-color: hsl(180, 100%, 30%);
-  border-radius: 6px;
+.title:hover{
+  text-shadow:
+  2px 2px 0 #000,
+  -2px -2px 0 #000,
+  2px -2px 0 #000,
+  -2px 2px 0 #000,
+  0 2px 0 #000,
+  2px 0 0 #000,
+  0 -2px 0 #000,
+  -2px 0 0 #000,
+  2px 2px 5px #000;
 }
-
-::-webkit-scrollbar-thumb:hover {
-  background-color: #555;
-  background-color: hsl(180, 100%, 40%);
-}
-
-::-webkit-scrollbar-track {
-  background-color: #222;
-}
-
-::-webkit-scrollbar-corner {
-  background-color: #000;
-} 
